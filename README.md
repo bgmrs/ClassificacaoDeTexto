@@ -3,11 +3,27 @@
 ## Descrição do Projeto
 Utilizando uma base de dados extraída do Kaggle, o projeto implementa um pipeline de processamento e classificação de textos. As principais etapas do projeto incluem:
 
-  - **Pré-processamento dos Dados**: Aplicação de Regex para limpeza e padronização dos textos.
-  - **Representação dos Textos**: Uso do CountVectorizer para converter o texto em uma matriz de contagem de palavras.
-  - **Reamostragem**: Implementação da técnica de hold out para separar os dados em conjuntos de treino e teste.
-  - **Modelo de Classificação**:  Implementação de Regressão Logística para classificar os sentimentos como POSITIVO ou NEGATIVO.
-  - **Avaliação**: Utilização do F1 Score como métrica principal para medir o desempenho do modelo.
+  - **Pré-processamento dos Dados**:
+    
+    **Limpeza e Padronização**: Aplicação de Regex para remover caracteres indesejados e padronizar o formato dos textos.
+    
+    **Tratamento de Texto**: Inclui a remoção de stop words, lematização (redução das palavras às suas formas básicas), tokenização (divisão do texto em unidades menores, como palavras), conversão para lowercase (para uniformidade), e remoção de acentuação e caracteres especiais. Essas etapas são essenciais para garantir que o modelo se concentre apenas nas       informações relevantes.
+    
+  - **Representação dos Textos**:
+
+    **CountVectorizer**: Conversão dos textos em uma matriz de contagem de palavras. O CountVectorizer transforma o texto em uma representação numérica, onde cada palavra é representada por um valor que indica sua frequência no texto.
+
+  - **Reamostragem**:
+
+    **Hold Out**: Separação dos dados em conjuntos de treino e teste. A técnica de hold out é usada para dividir o dataset em um conjunto de treino, utilizado para treinar o modelo, e um conjunto de teste, utilizado para avaliar o desempenho do modelo.
+    
+  - **Modelo de Classificação**:
+
+    **Regressão Logística**: Implementação de um modelo de regressão logística, adequado para problemas de classificação binária, como a distinção entre sentimentos positivos e negativos. A regressão logística estima a probabilidade de uma amostra pertencer a uma das classes (POSITIVO ou NEGATIVO).
+    
+  - **Avaliação**: 
+
+    **F1 Score**: Utilização do F1 Score como métrica principal para avaliar o desempenho do modelo. O F1 Score é uma medida que combina a precisão e a revocação, proporcionando uma única métrica que considera tanto os falsos positivos quanto os falsos negativos, sendo particularmente útil para problemas de classificação desbalanceada.
 
 ## Como Executar
 
