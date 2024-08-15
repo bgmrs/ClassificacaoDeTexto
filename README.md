@@ -1,7 +1,7 @@
 #  Classificador de Sentimentos de Textos
 
 ## Descrição do Projeto
-Este projeto utiliza a base de dados Natural Language Processing with Disaster Tweets, extraída do Kaggle, para a tarefa de classificação de sentimentos. As principais etapas do projeto incluem:
+Este projeto utiliza a base de dados Classificação de Texto - Emoção, extraída do Kaggle, para a tarefa de classificação de sentimentos. As principais etapas do projeto incluem:
 
   - **Pré-processamento dos Dados**:
     
@@ -25,7 +25,7 @@ Este projeto utiliza a base de dados Natural Language Processing with Disaster T
     
   - **Avaliação**: 
 
-    **F1 Score**: O modelo foi avaliado utilizando o F1 Score, que alcançou um valor de 0.79374. O F1 Score é uma métrica que combina a precisão e a revocação, proporcionando uma única medida que considera tanto os falsos positivos quanto os falsos negativos, sendo particularmente útil para problemas de classificação desbalanceada.
+    **F1 Score**: O modelo foi avaliado utilizando o F1 Score, que alcançou um valor de 0.79. O F1 Score é uma métrica que combina a precisão e a revocação, proporcionando uma única medida que considera tanto os falsos positivos quanto os falsos negativos, sendo particularmente útil para problemas de classificação desbalanceada.
 
 ## Como Executar
 
@@ -58,10 +58,10 @@ Este projeto é licenciado sob a [Apache License 2.0](LICENSE)  - veja o arquivo
 
 ## Referências
 
-**Dataset**: [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started)
+**Dataset**: [Classificação de Texto - Emoção](https://kaggle.com/competitions/5cd-classificacao-emocao)
 
-**Autores**: Addison Howard, devrishi, Phil Culliton, Yufeng Guo
+**Autores**: Danilo de Oliveira
 
 **Publicadora**: Kaggle
 
-**Ano**: 2019
+**Ano**: 2022
