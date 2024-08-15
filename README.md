@@ -25,7 +25,7 @@ Este projeto utiliza a base de dados Natural Language Processing with Disaster T
     
   - **Avaliação**: 
 
-    **F1 Score**: Utilização do F1 Score como métrica principal para avaliar o desempenho do modelo. O F1 Score é uma medida que combina a precisão e a revocação, proporcionando uma única métrica que considera tanto os falsos positivos quanto os falsos negativos, sendo particularmente útil para problemas de classificação desbalanceada.
+    **F1 Score**: O modelo foi avaliado utilizando o F1 Score, que alcançou um valor de 0.79374. O F1 Score é uma métrica que combina a precisão e a revocação, proporcionando uma única medida que considera tanto os falsos positivos quanto os falsos negativos, sendo particularmente útil para problemas de classificação desbalanceada.
 
 ## Como Executar
 
