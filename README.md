@@ -58,8 +58,10 @@ Este projeto é licenciado sob a [Apache License 2.0](LICENSE)  - veja o arquivo
 
 ## Referências
 
-Dataset: Natural Language Processing with Disaster Tweets
-Autores: Addison Howard, devrishi, Phil Culliton, Yufeng Guo
-Publicadora: Kaggle
+**Dataset**: Natural Language Processing with Disaster Tweets
+
+**Autores**: Addison Howard, devrishi, Phil Culliton, Yufeng Guo
+
+**Publicadora**: Kaggle
 
 
