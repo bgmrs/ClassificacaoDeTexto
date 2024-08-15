@@ -11,7 +11,9 @@ Utilizando uma base de dados extraída do Kaggle, o projeto implementa um pipeli
     
   - **Representação dos Textos**:
 
-    **CountVectorizer**: Conversão dos textos em uma matriz de contagem de palavras. O CountVectorizer transforma o texto em uma representação numérica, onde cada palavra é representada por um valor que indica sua frequência no texto.
+      **Bag of Words (BoW)**: Utilizamos o modelo Bag of Words para converter os textos em uma matriz numérica que representa a frequência das palavras. O BoW ignora a ordem das palavras e se concentra apenas na presença ou contagem das palavras no texto, o que simplifica a representação textual e permite que algoritmos de aprendizado de máquina processem os dados de forma eficiente.
+    
+      **CountVectorizer**: Implementa o modelo BoW, transformando o texto em uma matriz de contagem de palavras onde cada posição no vetor representa a frequência de uma palavra no documento.
 
   - **Reamostragem**:
 
