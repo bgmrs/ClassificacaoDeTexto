@@ -35,5 +35,5 @@ Utilizando uma base de dados extraída do Kaggle, o projeto implementa um pipeli
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
 
 ## Licença
-Este projeto é licenciado sob a MIT License - veja o arquivo LICENSE para detalhes.
+Este projeto é licenciado sob a [Apache License 2.0](LICENSE)  - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
