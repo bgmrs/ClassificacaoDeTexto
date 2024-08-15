@@ -58,7 +58,7 @@ Este projeto é licenciado sob a [Apache License 2.0](LICENSE)  - veja o arquivo
 
 ## Referências
 
-**Dataset**: [Natural Language Processing with Disaster Tweets]([URL](https://www.kaggle.com/competitions/nlp-getting-started))
+**Dataset**: [Natural Language Processing with Disaster Tweets]([https://www.kaggle.com/competitions/nlp-getting-started]))
 
 **Autores**: Addison Howard, devrishi, Phil Culliton, Yufeng Guo
 
