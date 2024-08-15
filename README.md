@@ -1,7 +1,7 @@
 #  Classificador de Sentimentos de Textos
 
 ## Descrição do Projeto
-Utilizando uma base de dados extraída do Kaggle, o projeto implementa um pipeline de processamento e classificação de textos. As principais etapas do projeto incluem:
+Este projeto utiliza a base de dados Natural Language Processing with Disaster Tweets, extraída do Kaggle, para a tarefa de classificação de sentimentos. As principais etapas do projeto incluem:
 
   - **Pré-processamento dos Dados**:
     
@@ -54,4 +54,12 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar 
 
 ## Licença
 Este projeto é licenciado sob a [Apache License 2.0](LICENSE)  - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+
+## Referências
+
+Dataset: Natural Language Processing with Disaster Tweets
+Autores: Addison Howard, devrishi, Phil Culliton, Yufeng Guo
+Publicadora: Kaggle
+
 
