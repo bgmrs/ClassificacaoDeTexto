@@ -45,7 +45,11 @@ Este projeto utiliza a base de dados Classificação de Texto - Emoção, extra�
 
 ```jupyter notebook classificacaodetexto.ipynb```
 
-### Detalhes Adicionais
+## Linguagem
+
+Este projeto é desenvolvido em **Python**.
+
+## Detalhes Adicionais
 
 **Notas Pessoais**: O notebook contém células de Markdown com anotações e explicações detalhadas sobre cada etapa do processo. Comentários adicionais podem ser encontrados nas células de código para detalhes sobre abordagens específicas e decisões tomadas durante o desenvolvimento.
 
@@ -54,7 +58,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar 
 
 ## Licença
 Este projeto é licenciado sob a [Apache License 2.0](LICENSE)  - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
 
 ## Referências
 
